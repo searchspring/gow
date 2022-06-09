@@ -1,4 +1,4 @@
-module github.com/mitranim/gow
+module github.com/searchspring/gow
 
 go 1.13
 
